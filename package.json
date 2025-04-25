@@ -1,0 +1,23 @@
+{
+  "name": "quite-night-theme",
+  "version": "1.0.0",
+  "publisher": "cdxy",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "repository": {
+    "private": true
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Quite Night Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/quite-night-theme.json"
+      }
+    ]
+  }
+}
