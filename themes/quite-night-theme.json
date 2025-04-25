@@ -500,6 +500,13 @@
       }
     },
     {
+      "name": "Python class attribute",
+      "scope": "meta.attribute.python",
+      "settings": {
+        "foreground": "#FFC5FF"
+      }
+    },
+    {
       "name": "Python decorators",
       "scope": [
         "source.python",
