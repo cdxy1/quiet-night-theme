@@ -500,6 +500,18 @@
       }
     },
     {
+      "name": "Python decorators",
+      "scope": [
+        "source.python",
+        "meta.function.decorator.python",
+        "entity.name.function.decorator.python"
+      ],
+      "settings": {
+        "foreground": "#42AAFB"
+      }
+    },
+    {},
+    {
       "name": "python function-call.generic",
       "scope": "meta.function-call.generic.python",
       "settings": {
@@ -539,13 +551,6 @@
       "scope": "keyword",
       "settings": {
         "foreground": "#f690ff"
-      }
-    },
-    {
-      "name": "Namespaces",
-      "scope": "entity.name.namespace",
-      "settings": {
-        "foreground": "#ffb369"
       }
     },
     {
