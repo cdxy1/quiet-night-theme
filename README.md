@@ -2,7 +2,7 @@
 
 A calm, minimalistic dark theme with carefully tuned contrast and soft colors — designed for late-night focused coding.
 
-![Preview Screenshot](https://github.com/cdxy1/quite-night-theme/blob/main/screenshots/quite_night_py.png)
+![Preview Screenshot](https://raw.githubusercontent.com/cdxy1/quite-night-theme/refs/heads/main/screenshots/quite_night_py.png)
 
 ---
 
