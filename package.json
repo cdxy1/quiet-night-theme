@@ -19,5 +19,11 @@
         "path": "./themes/quite-night-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.5.0"
   }
 }
