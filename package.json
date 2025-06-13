@@ -1,6 +1,9 @@
 {
   "name": "quite-night-theme",
+  "displayName": "Quite Night Theme",
   "version": "1.0.0",
+  "description": "Minimalistic VS code theme for night coding",
+  "icon": "images/icon.png",
   "publisher": "VavilenBader",
   "engines": {
     "vscode": "^1.75.0"
