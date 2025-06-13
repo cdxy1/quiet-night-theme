@@ -1,4 +1,4 @@
-# 🌙 Quite Night — VS Code Theme
+# 🌙 Quite Night Theme — VS Code Theme
 
 A calm, minimalistic dark theme with carefully tuned contrast and soft colors — designed for late-night focused coding.
 
