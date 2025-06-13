@@ -22,7 +22,7 @@ A calm, minimalistic dark theme with carefully tuned contrast and soft colors �
 2. Search for: `Quite Night`
 3. Click **Install**
 4. Open the **Command Palette** (`Ctrl+Shift+P`) → type:  
-   `Color Theme` → choose: `Quite Night`
+   `Color Theme` → choose: `Quite Night Theme`
 
 ---
 
