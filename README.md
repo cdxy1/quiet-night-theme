@@ -8,7 +8,7 @@ A calm, minimalistic dark theme with carefully tuned contrast and soft colors �
 
 ## ✨ Features
 
-- 🌓 Contrast dark background
+- 🌓 Soothing dark background
 - 🎨 Harmonized syntax colors for JS/TS, Python, Go, Rust, HTML, CSS, etc.
 - 💡 Optimized for low eye strain
 - 🧪 Tested on common VS Code extensions
