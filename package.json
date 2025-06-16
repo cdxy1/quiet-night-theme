@@ -1,6 +1,6 @@
 {
-  "name": "quite-night-theme",
-  "displayName": "Quite Night Theme",
+  "name": "quiet-night-theme",
+  "displayName": "Quiet Night Theme",
   "version": "1.0.0",
   "description": "Minimalistic VS code theme for night coding",
   "icon": "images/icon.png",
@@ -17,7 +17,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Quite Night Theme",
+        "label": "Quiet Night Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/quite-night-theme.json"
       }
