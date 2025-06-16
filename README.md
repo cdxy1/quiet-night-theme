@@ -1,4 +1,4 @@
-# 🌙 Quite Night Theme — VS Code Theme
+# 🌙 Quiet Night Theme — VS Code Theme
 
 A calm, minimalistic dark theme with carefully tuned contrast and soft colors — designed for late-night focused coding.
 
@@ -19,10 +19,10 @@ A calm, minimalistic dark theme with carefully tuned contrast and soft colors �
 ## 📦 Installation
 
 1. Open **Extensions** in VS Code (`Ctrl+Shift+X`)
-2. Search for: `Quite Night Theme`
+2. Search for: `Quiet Night Theme`
 3. Click **Install**
 4. Open the **Command Palette** (`Ctrl+Shift+P`) → type:  
-   `Color Theme` → choose: `Quite Night Theme`
+   `Color Theme` → choose: `Quiet Night Theme`
 
 ---
 
