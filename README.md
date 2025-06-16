@@ -2,7 +2,7 @@
 
 A calm, minimalistic dark theme with carefully tuned contrast and soft colors â€” designed for late-night focused coding.
 
-![Preview Screenshot](https://raw.githubusercontent.com/cdxy1/quite-night-theme/refs/heads/main/screenshots/quite_night_py.png)
+![Preview Screenshot](https://raw.githubusercontent.com/cdxy1/quiet-night-theme/refs/heads/main/screenshots/quiet_night_py.png)
 
 ---
 
@@ -34,5 +34,5 @@ A calm, minimalistic dark theme with carefully tuned contrast and soft colors â€
   "editor.fontLigatures": true,
   "editor.cursorSmoothCaretAnimation": true,
   "editor.bracketPairColorization.enabled": false,
-  "workbench.colorTheme": "Quite Night"
+  "workbench.colorTheme": "Quiet Night"
 }

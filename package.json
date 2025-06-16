@@ -19,7 +19,7 @@
       {
         "label": "Quiet Night Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/quite-night-theme.json"
+        "path": "./themes/quiet-night-theme.json"
       }
     ]
   },
